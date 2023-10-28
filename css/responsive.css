@@ -1,0 +1,139 @@
+@media screen and  (max-width: 576px)  {
+    header{
+        width: 576px;
+    }
+    
+    nav{
+        flex-direction: column;
+        flex-flow: column;
+    }
+    
+
+    nav> ul{
+        flex-direction: column;
+        justify-content: center;
+        padding-right: 1700px;
+        margin: auto;
+        
+    }
+
+    .banner{
+        flex-direction: column-reverse;
+        margin-top: 500px;
+    }
+
+    .banner1{
+        flex-direction: column;
+        padding-left: -1500px;
+        margin: auto;
+        left: 0px;
+    }
+
+    .banner1{
+        width: 70%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .container3{
+       
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    /* .row2{
+        text-align: center;
+        
+        display: flex;
+        
+    } */
+
+    .box1{
+        flex-direction: column;
+        text-align: center;
+        margin: auto;
+    }
+    .row2 p{
+        width: 520px;
+    }
+.banner3{
+    margin-top: 500px;
+}
+    .row3{
+        flex-direction: column;
+    }
+
+    .inner{
+        width: 900px;
+    }
+
+    .banner4{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .img{
+        left: 200px;
+        width: 100%;
+    }
+
+    .inner1{
+        text-align: center;
+        align-items: center;
+        text-align: center;
+        padding-left: 200px;
+        padding-right: 0px;
+    }
+
+    .inner1 span{
+        width: 461.751px;
+        height: 238.163px;
+    }
+    .inner1 p{
+        padding-left: 0px;  
+        width: 350px;
+    }
+
+    .row4{
+        margin-left: 0px;
+    }
+
+    .banner5{
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+
+    .inner2{
+        text-align: center;
+        padding-left: 400px;
+        padding-right: 0px;
+
+    }
+
+    .banner6{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 1132px;
+    }
+
+    .col1{
+        padding-left: 200px;
+        padding-right: 200px;
+        height: 821px;
+    }
+
+    .col2{
+        width: 100%;
+    }
+
+   .inner3{
+    flex-i
+   }
+
+
+
+}
